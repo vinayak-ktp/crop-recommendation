@@ -7,4 +7,4 @@
 4. Neural Network (no regularization) - 96.2%
 5. Neural Network (with regularization) - 96%
 
-[Dataset used](https://www.kaggle.com/datasets/varshitanalluri/crop-recommendation-datasetc)
+[Dataset used](https://www.kaggle.com/datasets/varshitanalluri/crop-recommendation-dataset)
